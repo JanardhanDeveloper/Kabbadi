@@ -1,0 +1,18 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "io.litehelpers.cordova.sqlite": {
+        "source": {
+            "type": "local",
+            "path": "D:\\Cordova-sqlite-storage-7d7c66762c92b20dcfbdb310c4bd65bb95ef734e"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
